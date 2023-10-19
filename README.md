@@ -15,6 +15,8 @@ the following topics
 
 ## Graphs
 
-- Watts Strogatz Graph
+- Erdos-Renyi
+- Watts-Strogatz
+- Barabasi-Albert
 
 ## Credits
