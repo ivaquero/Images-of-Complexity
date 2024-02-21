@@ -17,7 +17,7 @@ def random_pairs_undirected(nodes, p):
 
 
 def make_random_graph(n, p, seed=42):
-    np.random.seed(seed)
+    np.random.default_rng(seed)
     G = nx.Graph()
     nodes = range(n)
     G.add_nodes_from(nodes)

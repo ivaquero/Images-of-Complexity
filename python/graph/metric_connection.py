@@ -48,5 +48,5 @@ def prob_connected(G, iters=100):
     return np.mean(tf)
 
 
-np.random.seed(17)
+np.random.default_rng(17)
 prob_connected(n, iters=10000)  # 0.3407
