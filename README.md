@@ -19,4 +19,8 @@ the following topics
 - Watts-Strogatz
 - Barabasi-Albert
 
+## Physics
+
+- Ising Model
+
 ## Credits
